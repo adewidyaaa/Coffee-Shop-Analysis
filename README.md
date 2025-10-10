@@ -17,7 +17,7 @@ Project ini menghasilkan :
 - Analisa dan kesimpulan dari semua perhitungan yang dilakukan
 
 ## Data
-Sumber : Coffee Sales Dataset (Kaggle)
+Sumber : Coffee Sales Dataset (Kaggle)  
 Karakteristik Dataset :
 - Jumlah kolom = 11 kolom. Setelah proses preprocessing kolom tersisa sebanyak = 8 kolom
 - Jumlah baris = 3547 baris
@@ -29,12 +29,12 @@ Karakteristik Dataset :
 - Statistik Inferential : Metode ANOVA untuk mengetahui perbedaan revenue yang terjadi setiap bulan 
 
 ## Stacks
-Bahasa Pemrograman : Python
-Library : Pandas, SciPy, Matplotlib, Seaborn
+Bahasa Pemrograman : Python   
+Library : Pandas, SciPy, Matplotlib, Seaborn   
 Tools : Visual Studio Code, Tableau Public, Github
 
 ## Reference
-Dashboard Visualisai : https://public.tableau.com/app/profile/ade.widya/viz/CoffeeSalesDashboard_17575092160030/CoffeeShopDashboard
+Dashboard Visualisai : https://public.tableau.com/app/profile/ade.widya/viz/CoffeeSalesDashboard_17575092160030/CoffeeShopDashboard   
 Dashboard Statistic : https://public.tableau.com/app/profile/ade.widya/viz/CoffeeSalesDashboard_17575092160030/CoffeeShopStatistic
 
 ---
