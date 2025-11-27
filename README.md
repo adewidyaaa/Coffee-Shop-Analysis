@@ -33,8 +33,13 @@ Bahasa Pemrograman : Python
 Library : Pandas, SciPy, Matplotlib, Seaborn   
 Tools : Visual Studio Code, Tableau Public, Github
 
-## Reference
-Dashboard Visualisai : https://public.tableau.com/app/profile/ade.widya/viz/CoffeeSalesDashboard_17575092160030/CoffeeShopDashboard   
-Dashboard Statistic : https://public.tableau.com/app/profile/ade.widya/viz/CoffeeSalesDashboard_17575092160030/CoffeeShopStatistic
+## Dashboard Preview
+![Coffee Shop Dashboard](Coffee-shop-dashboard.png)
 
+## Reference
+- **Dashboard Visualisasi**  
+  👉 https://public.tableau.com/app/profile/ade.widya/viz/CoffeeSalesDashboard_17575092160030/CoffeeShopDashboard  
+
+- **Dashboard Statistik**  
+  👉 https://public.tableau.com/app/profile/ade.widya/viz/CoffeeSalesDashboard_17575092160030/CoffeeShopStatistic
 ---
