@@ -34,12 +34,8 @@ Library : Pandas, SciPy, Matplotlib, Seaborn
 Tools : Visual Studio Code, Tableau Public, Github
 
 ## Dashboard Preview
-![Coffee Shop Dashboard](Coffee-shop-dashboard.png)
+![Coffee Shop Dashboard](Coffee-Dashboard.png)
 
-## Reference
-- **Dashboard Visualisasi**  
-  👉 https://public.tableau.com/app/profile/ade.widya/viz/CoffeeSalesDashboard_17575092160030/CoffeeShopDashboard  
-
-- **Dashboard Statistik**  
-  👉 https://public.tableau.com/app/profile/ade.widya/viz/CoffeeSalesDashboard_17575092160030/CoffeeShopStatistic
+## 📊 Dashboard  
+[![Open Dashboard](https://img.shields.io/badge/Open-Dashboard-4CAF50?style=for-the-badge)](https://public.tableau.com/app/profile/ade.widya/viz/CoffeeSalesDashboard_17575092160030/Dashboard3)
 ---
